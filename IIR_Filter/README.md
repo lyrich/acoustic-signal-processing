@@ -1,5 +1,7 @@
 ## An IIR filter designed with MATLAB and implemented in C
 
+More details can be found in [my blog](https://blog.csdn.net/u013213111/article/details/90529164).  
+
 The transfer function of a biquad filter can be written as: H(z)=(b₀+b₁z⁻¹+b₂z⁻²)/(a₀+a₁z⁻¹+a₂z⁻²).   
  
 Use Filter Designer in MATLAB to design a 400 Hz bandpass IIR filter:  
