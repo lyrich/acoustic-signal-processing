@@ -1,6 +1,6 @@
 ## An IIR filter designed with MATLAB and implemented in C
 
-More details can be found in [my blog](https://blog.csdn.net/u013213111/article/details/90529164).  
+More details can be found in [my blog](https://www.cnblogs.com/lyrich/p/10987875.html).  
 
 The transfer function of a biquad filter can be written as: H(z)=(b₀+b₁z⁻¹+b₂z⁻²)/(a₀+a₁z⁻¹+a₂z⁻²).   
  
